@@ -1,0 +1,23 @@
+- icon: icon-instagram
+  title: Mobile
+  description: Com a grande evolução do Mobile possuimos profissionais altamente qualificados e certificados para melhor atender suas necessidades.
+
+- icon: icon-diamond
+  title: Qualidade
+  description: Todos nossos softwares são testados automaticamente antes de qualquer publicação.
+
+- icon: icon-flask
+  title: Tendências
+  description: Nossas equipes são frequentemente treinadas para sempre oferecer o melhor do mercado de desenvolvimento de software.
+
+- icon: icon-clock-o
+  title: Entregas
+  description: Adotamos metodos ageis para realizarmos entregas de valor em um período de tempo menor.
+
+- icon: icon-ambulance
+  title: Manutenção Monolito
+  description: Damos suporte ao seu sistema monolitico enquanto migramos para nova plataforma.
+
+- icon: icon-globe
+  title: Web
+  description: Equipe qualificada para desenvolver qualquer solução para web.
